@@ -1,6 +1,6 @@
 {
-    "name": "@h4v0c/ctx2d",
-    "version": "1.0.1",
+    "name": "@h4v0c/renderer2d",
+    "version": "1.0.0",
     "description": "A simple CanvasRenderingContext2D library.",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -13,15 +13,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/h4v0c-npm/ctx2d.git"
+        "url": "git+https://github.com/h4v0c-npm/renderer2d.git"
     },
     "keywords": [],
     "author": "John Wakley <john.wakley@icloud.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/h4v0c-npm/ctx2d/issues"
+        "url": "https://github.com/h4v0c-npm/renderer2d/issues"
     },
-    "homepage": "https://github.com/h4v0c-npm/ctx2d#readme",
+    "homepage": "https://github.com/h4v0c-npm/renderer2d#readme",
     "devDependencies": {
         "@types/node": "^18.16.16",
         "css-loader": "^6.8.1",

@@ -37,7 +37,7 @@ const DEFAULT_DRAW_PARAMS: DrawParams = {
     padding: 0,
 };
 
-export class Renderer {
+export class Renderer2D {
     private _canvas: HTMLCanvasElement;
     private _ctx: CanvasRenderingContext2D;
 
