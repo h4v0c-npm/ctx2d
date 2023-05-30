@@ -297,6 +297,7 @@ export class Renderer {
     }
 
     private _renderLoop(time: number) {
+        this.clear();
         this._clock.update(time);
 
         if (this._renderLoopCallback) {
